@@ -84,8 +84,8 @@ Guiding Question:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Rules, Practices and Principles
-1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
-2. Do not rename any .html files; always use `index.html` as the filename.
+1. Always use `AD-` in the front of the Title of the Project for the Subject followed by your custom naming.
+2. Do not rename any .html files; always use `index.php` as the filename.
 3. Place Files in their respective folders.
 4. All file naming are in camel case.
    - Camel case is naming format where there is no white space in separation of each words, the first word is in all lower case while the succeding words first letter are in upper followed by lower cased letters.
@@ -113,7 +113,7 @@ AD-ProjectName
 |     |  └─ js
 |     |     └─ script.js
 |     └─ index.html
-└─ index.html
+└─ index.php
 └─ readme.md
 ```
 
