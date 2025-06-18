@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/GodwinAblao/AD-FinalProject-Tamaroar">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
@@ -79,6 +79,9 @@ Guiding Question:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -92,7 +95,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+AD-ProjectName
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -119,4 +122,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Github | Template for Project | https://github.com/zyx-0314/AWD-WD-Template-Project |
+| Github | Badges4-README.md-Profile |https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md |
+| Github | Commit guide | https://github.com/zyx-0314/Github-Git-Guide/blob/ef7db7f75870f69828938fd610e478783d1750e9/git/commit.md#L4 |
